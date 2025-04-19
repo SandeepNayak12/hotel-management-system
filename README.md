@@ -33,7 +33,7 @@ A complete **web-based Hotel Management System** built using **PHP** and **MySQL
 3. 🔥 Start Apache and MySQL from XAMPP Control Panel.
 4. 🗂️ Open **phpMyAdmin** and import the `hotel_db.sql` file into a new database.
 5. 🌐 Open your browser and navigate to:
-http://localhost/hotel/
+[http://localhost/hotel/](http://localhost/hotel-management/login.php)
 
 ---
 
