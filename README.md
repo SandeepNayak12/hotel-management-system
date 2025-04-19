@@ -29,7 +29,7 @@ A complete **web-based Hotel Management System** built using **PHP** and **MySQL
 ## 🧾 How to Setup Locally
 
 1. 🧱 Clone or download this repository.
-2. 📂 Place all files inside your XAMPP `htdocs` folder.
+2. 📂 Place hotel-management folder inside your XAMPP `htdocs` folder.
 3. 🔥 Start Apache and MySQL from XAMPP Control Panel.
 4. 🗂️ Open **phpMyAdmin** and import the `hotel_db.sql` file into a new database.
 5. 🌐 Open your browser and navigate to:
